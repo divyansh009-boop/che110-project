@@ -1,0 +1,6 @@
+# The source footage is retained locally, but GitHub should receive only the web-ready MP4.
+media/IMG_8001.MOV
+media/segments/
+media/web-segments/
+media/project-footage.mp4
+media/project-footage-transcode.log
